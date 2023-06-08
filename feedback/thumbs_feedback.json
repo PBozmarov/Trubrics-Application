@@ -1,0 +1,33 @@
+{
+    "feedback_type": "thumbs",
+    "user_response": {
+        "User satisfaction: thumbs": ":1 - thumbs up:"
+    },
+    "data": null,
+    "model": null,
+    "collaborators": [],
+    "open": true,
+    "tags": null,
+    "git_commit": "2a6becd046909edf7478306ee508b5871f80aca2",
+    "timestamp": 1686245006,
+    "created_by": null,
+    "closed_on": null,
+    "closed_by": null,
+    "metadata": {
+        "data": {
+            "sepal_length": {
+                "0": 5.8
+            },
+            "sepal_width": {
+                "0": 3.1
+            },
+            "petal_length": {
+                "0": 4.3
+            },
+            "petal_width": {
+                "0": 1.3
+            }
+        },
+        "prediction": 1.0
+    }
+}
