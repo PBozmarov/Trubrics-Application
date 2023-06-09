@@ -12,7 +12,8 @@ pip install -r requirements.txt
 
 ## Run the application
 We have created a multi-page application that can be run using the following command:
-```streamlit run home.py
+```
+streamlit run home.py
 ```
 ## Home Page
 The home page is the first page that the user will see. It contains a brief description of the application and a button to navigate to the prediction page.
