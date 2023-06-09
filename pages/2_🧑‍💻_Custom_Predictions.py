@@ -43,7 +43,7 @@ def color_cells(val):
 
 def main():
     st.set_page_config(page_title="Make Predictions", page_icon="📈")
-    model = load('/Users/pavelbozmarov/Desktop/trubrics/intern-technical-test-main/model.pickle')
+    model = load('model.pickle')
 
     SPECIES_DICT = {0: 'Iris Setosa', 1: 'Iris Versicolor', 2: 'Iris Virginica'}
     SPECIES_IMAGE_DICT = {
