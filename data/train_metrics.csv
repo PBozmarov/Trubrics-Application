@@ -1,0 +1,5 @@
+Metrics,    0 (Iris Setosa),1 (Iris Versicolor),2 (Iris Virginica)
+accuracy ,1,0.98,0.97
+precision ,1,0.98,0.97
+recall  ,1,0.98,0.97
+f1   ,1,0.98,0.97
