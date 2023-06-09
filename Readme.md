@@ -18,6 +18,9 @@ streamlit run home.py
 ## Home Page
 The home page is the first page that the user will see. It contains a brief description of the application and a button to navigate to the prediction page.
 
+## Data insights page
+The data insights page is where the user can see the data insights of the iris dataset. The user can see the data insights in the form of correlation magtrix, pairplot, and table.
+
 ## Custom Predictions Page
 The custom predictions page is where the user can input their own measurements to predict the type of iris flower. The user can input the measurements in using the given sliders. The user can also click on the feedback button to give feedback on the prediction. The feedback is stored in a csv file in the local filesystem.
 
